@@ -1,5 +1,5 @@
 # Gioco-dadi
 
 
-## verison mobile live link..
+## version mobile live link..
 https://doci-git.github.io/Gioco-dadi/
