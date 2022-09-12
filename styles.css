@@ -35,7 +35,7 @@ body {
 }
 
 h1 {
-  padding-top: 15%;
+  padding-top: 8%;
   margin: 30px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
@@ -62,7 +62,7 @@ img {
 #btn {
   text-align: center;
   align-items: center;
-  margin-top: 5%;
+  margin-top: 10%;
   padding: 0.6rem;
   font-size: large;
   background-color: #4ECCA3;
@@ -87,13 +87,16 @@ a {
 
 }
 
-@media screen and (min-width: 1300px) {
+@media screen and (min-width: 1200px) {
   img {
     width: 70%;
   }
 
   h1 {
-    padding-top: 5%;
+    padding-top: 2%;
+  }
+  #btn {
+    margin-top: 15%;
   }
 
 }
