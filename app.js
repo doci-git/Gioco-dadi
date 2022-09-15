@@ -26,5 +26,7 @@ const btn = document.getElementById('btn');
 
 //button to refresh the page
 btn.addEventListener('click', function(){
-    location.reload()
+   image1.style.transform = 'rotateZ(180deg)';
+   image2.style.transform = 'rotateZ(180deg)';
+   location.reload()
 });
